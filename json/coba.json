@@ -1,0 +1,30 @@
+[
+    {
+        "nama" : "Adnan Rohmat Kurniansah",
+        "umur" : 17,
+        "no_hp" : "00897867877",
+        "lulus" : false,
+        "hobby" : [
+            "tidur",
+            "makan"
+        ],
+        "adik" : {
+            "adik1" : "dimd",
+            "adik2" : "maul" 
+        }
+    },
+    {
+        "nama" : "rohmat adnan kurni",
+        "umur" : 19,
+        "no_hp" : "00897867877",
+        "lulus" : false,
+        "hobby" : [
+            "tidur",
+            "makan"
+        ],
+        "adik" : {
+            "adik1" : "dimd",
+            "adik2" : "maul" 
+        }
+    }
+]
